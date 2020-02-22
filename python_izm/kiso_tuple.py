@@ -22,7 +22,7 @@ print(test_tuple[2])
 import datetime
  
  
-def get_today():
+def get_today2():
  
     today = datetime.datetime.today()
     value = (today.year, today.month, today.day)
